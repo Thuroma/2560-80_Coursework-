@@ -1,0 +1,12 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    margin: 9px;
+    background-image: linear-gradient(to bottom right, #F6FFF8, #A4C3B2);
+}
+
+.jumbotron {
+    font-family: 'Roboto Condensed', sans-serif;
+    background-color: #6B9080;
+    color: white;
+}
+
