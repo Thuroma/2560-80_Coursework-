@@ -1,0 +1,23 @@
+.jumbotron {
+    background-color: #2D6A4F;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+body {
+    font-family: 'Lora', serif;
+    background-color: #B7E4C7;
+}
+
+.code-snippet {
+    background-color: #D8F3DC;
+}
+
+.list-group-item {
+    background-color: #B7E4C7;
+    color: #081C15;
+}
+
+#code-description {
+    color: #081C15;
+}
